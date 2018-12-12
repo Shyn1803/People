@@ -1,0 +1,13 @@
+C:\Users\COMPUTER\source\repos\People\People\People\bin\Debug\netstandard2.0\People.deps.json
+C:\Users\COMPUTER\source\repos\People\People\People\bin\Debug\netstandard2.0\People.dll
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\Users\COMPUTER\source\repos\People\People\People\bin\Debug\netstandard2.0\People.pdb
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\Views\PeopleListPage.xaml.g.cs
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.dll
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\People.pdb
+C:\Users\COMPUTER\source\repos\People\People\People\obj\Debug\netstandard2.0\Views\EditPage.xaml.g.cs
