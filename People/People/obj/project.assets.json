@@ -517,11 +517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People\\People.csproj",
+      "projectUniqueName": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People\\People.csproj",
       "projectName": "People",
-      "projectPath": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People\\People.csproj",
+      "projectPath": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People\\People.csproj",
       "packagesPath": "C:\\Users\\COMPUTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People\\obj\\",
+      "outputPath": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

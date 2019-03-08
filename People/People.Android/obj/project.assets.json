@@ -973,11 +973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People.Android\\People.Android.csproj",
+      "projectUniqueName": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People.Android\\People.Android.csproj",
       "projectName": "People.Android",
-      "projectPath": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People.Android\\People.Android.csproj",
+      "projectPath": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People.Android\\People.Android.csproj",
       "packagesPath": "C:\\Users\\COMPUTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People.Android\\obj\\",
+      "outputPath": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -994,8 +994,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People\\People.csproj": {
-              "projectPath": "C:\\Users\\COMPUTER\\source\\repos\\People\\People\\People\\People.csproj"
+            "C:\\Users\\COMPUTER\\Documents\\People\\People\\People\\People.csproj": {
+              "projectPath": "C:\\Users\\COMPUTER\\Documents\\People\\People\\People\\People.csproj"
             }
           }
         }

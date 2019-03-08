@@ -17,6 +17,7 @@ namespace People.ViewModels
         
         public virtual void OnNavigatedFrom(INavigationParameters parameters)
         {
+            fdsduyc;
         }
 
         public virtual void OnNavigatedTo(INavigationParameters parameters)
